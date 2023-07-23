@@ -1,1 +1,1 @@
-![nihilistnun's github stats](https://github-readme-stats.vercel.app/api?username=nihilistnun&show_icons=true&theme=synthwave)
+![nicholasng99's github stats](https://github-readme-stats.vercel.app/api?username=nicholasng99&show_icons=true&theme=synthwave)
